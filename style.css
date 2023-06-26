@@ -1,0 +1,77 @@
+*{
+    box-sizing: content-box;
+}
+
+
+body {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin: 15px 30px;
+background: url(rr.jpg) no-repeat center fixed ;filter: blur(80%);
+background-size: cover;
+  }
+
+
+.container {
+background-color: #00ffee;
+padding: 5px 20px 15px 20px;
+border: 1px solid lightgray;
+border-radius: 4px;
+background: url(rr.jpg) no-repeat center fixed ;filter: blur(80%);
+background-size: cover
+  
+  }
+
+
+textarea{
+
+width: 98%;
+padding: 12px;
+border: 1px solid#ccc;
+}
+*{
+  box-sizing: content-box;
+}
+
+
+body {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin: 15px 30px;
+background: url(rr.jpg) no-repeat center fixed ;filter: blur(80%);
+background-size: cover;
+}
+
+
+input[type=text]:focus, input[type=text]:focus {
+  background-color: #dddddd;
+  outline: none;
+}
+
+input[type=password]:focus, input[type=password]:focus {
+  background-color: #dddddd;
+  outline: none;
+}
+.inputfield{
+    background-color: #dddddd;
+    outline:none;
+    
+}
+
+#file-size{
+  color: #fe1e50;
+}
+input.text {
+    text-align: center;
+}
+.registerbtn {  
+  background-color: #4CAF50;  
+  color: white;  
+  padding: 16px 20px;  
+  margin: 8px 0;  
+  border: none;  
+  cursor: pointer;  
+  width: 98%;  
+  opacity: 0.9;  
+}  
+.registerbtn:hover {  
+  opacity: 1;  
+}  
